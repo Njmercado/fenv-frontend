@@ -1,0 +1,25 @@
+/* Ref: https://github.com/nuxt-community/vuetify-module#customvariables
+
+The variables you want to modify
+$font-size-root: 20px;
+*/
+
+.bg-yellow { background-color: #F2D16D; }
+.font-yellow { color: #F2D16D; }
+
+.bg-orange { background-color: #F2C46D; }
+.font-orange { color: #F2D16D; }
+
+.bg-blue { background-color: #04BFBF; }
+.font-blue { color: #04BFBF; }
+
+.bg-purple { background-color: #A557F2; }
+.font-purple { color: #A557F2; }
+
+.bg-pink { background-color: #F28DBC; }
+.font-pink { color: #F28DBC; }
+
+.btn-font {
+    color: white; 
+    text-transform: lowercase;
+}
